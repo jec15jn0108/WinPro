@@ -1,0 +1,8 @@
+Z:\WinPro\Lesson02\kadai01\kadai01\obj\x86\Debug\kadai01.FrmSeiseki.resources
+Z:\WinPro\Lesson02\kadai01\kadai01\obj\x86\Debug\kadai01.Properties.Resources.resources
+Z:\WinPro\Lesson02\kadai01\kadai01\obj\x86\Debug\kadai01.csproj.GenerateResource.Cache
+Z:\WinPro\Lesson02\kadai01\kadai01\bin\Debug\kadai01.exe
+Z:\WinPro\Lesson02\kadai01\kadai01\bin\Debug\kadai01.pdb
+Z:\WinPro\Lesson02\kadai01\kadai01\obj\x86\Debug\kadai01.exe
+Z:\WinPro\Lesson02\kadai01\kadai01\obj\x86\Debug\kadai01.pdb
+Z:\WinPro\Lesson02\kadai01\kadai01\obj\x86\Debug\kadai01.csprojResolveAssemblyReference.cache
